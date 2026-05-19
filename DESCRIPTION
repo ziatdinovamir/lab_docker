@@ -1,8 +1,8 @@
-Solver application for mathematical equations.
+Flask web application with MySQL database.
 
 Package includes:
-- solver executable
-- formatter library
-- examples and tests
+- Flask web application
+- MySQL database integration
+- Docker and docker-compose support
 
-Platforms: Ubuntu Linux, Windows
+Platforms: Ubuntu Linux, Windows, macOS
